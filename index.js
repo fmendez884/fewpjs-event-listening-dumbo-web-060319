@@ -1,4 +1,3 @@
-var input = document.getElementById('input')
 
 function addingEventListener() {
   const input = document.getElementById('input');
